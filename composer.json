@@ -1,0 +1,25 @@
+{
+    "name": "tacraft-sociality/flarum-html-errors",
+    "description": "Redirect error responses to custom pages",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TacraftSociality\\HtmlErrors\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "HTML Errors",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-external-link-alt",
+                "backgroundColor": "#3498db",
+                "color": "#fff"
+            }
+        }
+    }
+}
