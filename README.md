@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of tacraft-sociality/flarum-html-errors.** Not for installation: use [Packagist](https://packagist.org/packages/tacraft-sociality/flarum-html-errors) or the [upstream repository](https://github.com/TaCraft-Sociality/flarum-html-errors).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/tacraft-sociality-flarum-html-errors/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0.0`
+**3** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/tacraft-sociality-flarum-html-errors/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-10-28 | `^2.0.0` | [Browse](https://github.com/flarchive/tacraft-sociality-flarum-html-errors/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-10-29 | `^2.0.0` | [Browse](https://github.com/flarchive/tacraft-sociality-flarum-html-errors/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-10-30 | `^2.0.0` | [Browse](https://github.com/flarchive/tacraft-sociality-flarum-html-errors/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/tacraft-sociality-flarum-html-errors.json](https://github.com/flarchive/archive-index/blob/main/packages/tacraft-sociality-flarum-html-errors.json)
 
